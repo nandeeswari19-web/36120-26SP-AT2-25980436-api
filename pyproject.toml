@@ -1,0 +1,17 @@
+[project]
+name = "weather-intelligence-api"
+version = "1.0.0"
+description = "AT2 (36120) FastAPI deployment: Climate Comfort Index and Weather Hazard Category prediction services."
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "pandas>=3.0,<4",
+    "scikit-learn>=1.9,<2",
+    "xgboost>=3.4,<4",
+    "joblib>=1.4",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
