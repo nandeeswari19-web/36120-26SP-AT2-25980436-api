@@ -13,8 +13,8 @@ The models were trained in the companion experimentation repository
 `36120-26SP-AT2-25980436-experiments`. Data comes from the Open-Meteo Historical
 Weather API (Sydney, data before 2026 only).
 
-**Deployed API (Render):** `<paste your Render URL here>`
-**Interactive docs:** `<Render URL>/docs`
+**Deployed API (Render):** `https://three6120-26sp-at2-25980436-api.onrender.com`
+**Interactive docs:** `https://three6120-26sp-at2-25980436-api.onrender.com/docs`
 
 ## Project structure
 
